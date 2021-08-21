@@ -9,7 +9,7 @@ git pull
 #### 2-1.構築 
 ```
 cd [project dir]
-python3 -m venv venv
+python -m venv venv
 ```
 
 #### 2-2. 入り方
