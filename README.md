@@ -2,7 +2,7 @@
 ## 1.GIT
 gitでバケットを作成
 ローカルにフォルダー作る
-git pull
+git clone
 
 ## 2.仮想環境
 
